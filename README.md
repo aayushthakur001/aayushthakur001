@@ -1,4 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Thakur</h1>
+## Hey...!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://geekhub01.blogspot.com)
+
+<a href="https://www.linkedin.com/in/aayush-thakur-001/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/aayushthakur_01">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto: aayushkumarthakur128@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://youtube.com/channel/UCGnUPI1tVuNfmxfptPm0Mkw">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="http://dev.to/aayushkt">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Application. </br>
+👨‍💻  I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+
+
+
 <h3 align="center">A passionate frontend developer 💻🖥️ & Ethical Hacker 🖥️💻 from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushthakur001&label=Profile%20views&color=0e75b6&style=flat" alt="aayushthakur001" /> </p>
