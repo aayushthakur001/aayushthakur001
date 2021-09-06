@@ -1,4 +1,4 @@
-## Hey...!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://geekhub01.blogspot.com)
+## Hey...!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://aayushthakur001.github.io)
 
 <a href="https://www.linkedin.com/in/aayush-thakur-001/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
