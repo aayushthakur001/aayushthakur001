@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image.png)
 
-## Hey...!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://aayushthakur001.github.io)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://aayushthakur001.github.io)
 
 
 
