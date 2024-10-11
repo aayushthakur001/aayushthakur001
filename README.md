@@ -75,5 +75,4 @@
 
 
 ### 📈 My GitHub Contributions
-![snake animation](https://github.com/aayushthakur001/aayushthakur001/blob/output/github-contribution-grid-snake2.svg)
 
