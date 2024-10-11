@@ -1,6 +1,6 @@
 <h1 align="center">Hey....!! 👋, Are you here!!</h1>
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 ## Hey...!!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://aayushthakur001.github.io)
 
