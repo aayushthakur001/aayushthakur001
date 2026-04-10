@@ -282,7 +282,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aayush_001)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgnupi1TVUNFmXfPtPM0MKw)
 
-📧 **ayushwork981@gmail.com** | 📍 **Chandigarh, India** | 📞 **+91-7482923005**
+📧 **ayushwork981@gmail.com** | 📍 **Chandigarh, India** |
 
 </div>
 
