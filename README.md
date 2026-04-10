@@ -1,74 +1,299 @@
-<h1 align="center">Hey....!! 👋, Are you here!!</h1>
+<div align="center">
 
-![Header](./github-header-image.png)
+# Ayush Thakur
+### 🛡️ Cybersecurity Professional | SOC Analyst | VAPT Engineer | AI Security Researcher
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ayush!](https://www.ayushthakur.me/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SOC+Operations+%7C+Threat+Hunting+%7C+Incident+Response;Web+%2F+Mobile+%2F+Cloud+VAPT+%7C+OWASP+Top+10;AI-Assisted+Security+%7C+ML-based+IDS;TryHackMe+Top+1%25+%7C+LEGEND+%7C+Rank+%238382;Building+Open-Source+Enterprise+SOC+Platforms)](https://git.io/typing-svg)
 
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-thakur-001/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushthakur001)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hunterx001)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushwork981@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ayushthakur.me/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aayushkumarthakur128)
 
-<h3 align="center">👋 Hi there! currently cyber security and digital forensics intern at @cybersecuredindia. As a Web Developer and Cybersecurity enthusiast, I love balancing creativity with security in the ever-evolving tech landscape.</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushthakur001&label=Profile%20views&color=0e75b6&style=flat" alt="aayushthakur001" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/aayushthakur_01" target="blank"><img src="https://img.shields.io/twitter/follow/aayushthakur_01?logo=twitter&style=for-the-badge" alt="aayushthakur_01" /></a> </p>
+## 👨‍💻 About Me
 
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  OPERATOR   : Ayush Thakur — Cybersecurity Professional          ║
+║  TARGET     : Threats, Vulnerabilities & Attackers               ║
+║  LOCATION   : Chandigarh, India                                  ║
+║  FOCUS      : SOC | VAPT | Digital Forensics | AI Security       ║
+║  FRAMEWORKS : MITRE ATT&CK | ISO 27001 | NIST CSF | OWASP        ║
+║  THM STATUS : Top 1% Global | Rank #8382 | LEGEND | 132 Rooms    ║
+║  EDUCATION  : MCA @ Chandigarh University (2024-2026)            ║
+║  MISSION    : Securing the digital world, one packet at a time   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
+---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🏆 TryHackMe Achievement
 
+<div align="center">
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hunterx001.png)](https://tryhackme.com/p/hunterx001)
 
-- 🔭 I’m currently working with [Cyber Secured India](https://cybersecuredindia.com/)
+| 🎯 Global Rank | 🏅 Tier | 🛡️ Badges | 🏠 Rooms | 🔴 Red Team | 🔵 Blue Team |
+|--------------|---------|----------|---------|------------|-------------|
+| **#8382** | **LEGEND** | **24** | **132** | ✅ | ✅ |
 
-- 🌱 I’m currently learning **Cyber Security, AI**
+</div>
 
-- 👯 I’m looking to collaborate on [Manish Roy](https://github.com/mroy0817/myntra-dashboad-clone)
+---
 
-- 🤝 I’m looking for help with [GEEKHUB01](https://geekhub01.blogspot.com/)
+## 🚀 Featured Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/aayushthakur001/aayushthakur001/](https://github.com/aayushthakur001/aayushthakur001/)
+### 🟣 PurpleOps — SOC & Vulnerability Intelligence Platform
+> **MCA Major Project | Chandigarh University | April 2026**
 
-- 📝 I regularly write articles on [https://geekhub01.blogspot.com/](https://geekhub01.blogspot.com/)
+`FastAPI` `React 18` `PostgreSQL` `Redis` `Celery` `Docker Compose` `Nmap` `OWASP ZAP` `NIST NVD API` `JWT` `RBAC` `ReportLab`
 
-- 💬 Ask me about **Cyber Security Tools**
+**An enterprise-grade, open-source Security Operations Center platform** integrating automated vulnerability scanning, real-time CVE intelligence, compliance mapping, and incident management — all orchestrated via a single `docker compose up` command.
 
-- 📫 How to reach me **thakuraayush900@gmail.com**
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ARCHITECTURE : 5-Service Docker Compose Stack                      │
+│  BACKEND      : FastAPI + SQLAlchemy + PostgreSQL + Redis + Celery  │
+│  FRONTEND     : React 18 + Vite + Recharts (14 Dashboard Pages)     │
+│  SCANNERS     : Nmap 7.94 (Network) + OWASP ZAP (Web App)          │
+│  INTELLIGENCE : NIST NVD API v2.0 + CVSS 3.x Scoring               │
+│  COMPLIANCE   : NIST SP 800-53 Rev 5 + ISO/IEC 27001:2022           │
+│  SECURITY     : JWT + bcrypt + 3-Tier RBAC (Admin/Analyst/Viewer)   │
+│  ASYNC        : Celery Workers + APScheduler background tasks        │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17GVniov2Itp6X87WSuSInTqbGh-E8Ut7/view](https://drive.google.com/file/d/17GVniov2Itp6X87WSuSInTqbGh-E8Ut7/view)
+**Key Metrics & Achievements:**
+- ⚡ **Parallel Scanning**: ThreadPoolExecutor (5 workers) — **~4x speedup** (48 min → 12 min for 20 assets)
+- 🎯 **Scan Accuracy**: Nmap 92% precision | OWASP ZAP 90% recall | CVE Correlation 100% precision
+- 📋 **Compliance**: 83% NIST SP 800-53 + 82.4% ISO 27001 + 100% OWASP Top 10 coverage
+- 🔐 **100% JWT authentication** coverage across all 14 API endpoints
+- 📄 **Auto PDF SOC Reports** with CVSS scores, compliance mappings & prioritized remediation
+- 📊 **5 Real-time Recharts visualizations** — priority donut, status bar, scan history area, risky assets, trend line
+- ⚡ **Sub-200ms API response** times | 50+ concurrent users validated via JMeter load testing
+- 🛡️ **Zero unauthorized access** in full security test suite (JWT tampering, RBAC bypass, SQLi, CORS)
 
-- ⚡ Fun fact **I think I am Funny**
+**Tech Stack:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap_7.94-004088?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/aayushthakur001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/aayushthakur001" height="30" width="40" /></a>
-<a href="https://dev.to/http://dev.to/aayushkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://dev.to/aayushkt" height="30" width="40" /></a>
-<a href="https://twitter.com/aayushthakur_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayushthakur_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayush-thakur-001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-thakur-001/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18775649/hunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18775649/hunter" height="30" width="40" /></a>
-<a href="https://fb.com/https://fb.com/aayushthakur001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/aayushthakur001" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/aayush_thakur_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/aayush_thakur_001" height="30" width="40" /></a>
-<a href="https://medium.com/@aayushkumarthakur128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aayushkumarthakur128" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucgnupi1tvunfmxfptpm0mkw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucgnupi1tvunfmxfptpm0mkw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/aayush_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aayush_001" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@aayushkumarthakur128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@aayushkumarthakur128" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/aayushkr001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aayushkr001" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/PaXREKPv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PaXREKPv" height="30" width="40" /></a>
-<a href="/https://rss.com/podcasts/aayushrss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/aayushrss/" height="30" width="40" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/View_Project_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushthakur001)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aayush001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aayush001" /></a><a href="https://ko-fi.com/aayushthakur62701"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aayushthakur62701" /></a></p><br><br>
+### 🤖 AI-Assisted Network Intrusion Detection System
+> **University Project (Formally Graded) | Aug – Oct 2025**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushthakur001&show_icons=true&locale=en&layout=compact" alt="aayushthakur001" /></p>
+`Python` `Scapy` `Scikit-learn` `Random Forest` `Flask` `Gemini AI` `Chart.js` `UNSW-NB15`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushthakur001&show_icons=true&locale=en" alt="aayushthakur001" /></p>
+**A real-time ML-powered NIDS** detecting network intrusions with 100% accuracy, featuring Gemini AI integration for natural-language threat summaries.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushthakur001&" alt="aayushthakur001" /></p>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  DATASET   : UNSW-NB15 (175,000+ samples, 49 features)              │
+│  MODELS    : Random Forest | SVM | Decision Tree | KNN | Naive Bayes│
+│  BEST      : Random Forest — 100% Accuracy (F1 = 1.00)              │
+│  LATENCY   : < 1 second real-time inference                         │
+│  CPU USAGE : 15-20% during live deployment                          │
+│  AI LAYER  : Gemini AI API — Natural Language Threat Summaries      │
+│  DASHBOARD : Flask + Chart.js live traffic visualization            │
+│  CAPTURE   : Real-time packet sniffing via Scapy                    │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
+**Key Achievements:**
+- 🧠 **5 ML models** benchmarked — Random Forest achieved **perfect F1 = 1.00**
+- 💬 **Gemini AI** generates human-readable, analyst-friendly threat summaries
+- 📡 **Real-time Scapy** packet capture with sub-second classification
+- 📊 **Live dashboard** for traffic pattern monitoring
 
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aayushthakur001&limit=5&theme=flat&combine_all_yearly_contributions=true)
+[![GitHub](https://img.shields.io/badge/View_Project_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushthakur001)
+
+---
+
+### ☁️ Cloud & Mobile Vulnerability Research
+> **Sep – Nov 2024**
+
+`AWS CLI` `ADB` `SQLite` `DIVA Android` `OWASP`
+
+- 🔍 Identified **13+ vulnerabilities** in DIVA Android app — CWE-mapped, CVSS-scored
+- ☁️ Discovered critical **AWS misconfigurations**: public S3, over-privileged IAM, unencrypted EBS
+- 📄 Delivered quantitative PoC reports with OWASP-aligned remediation steps
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushthakur001)
+
+---
+
+## 💼 Professional Experience
+
+### 🔵 Security Admin Associate (L1) — *Infotact Solutions India*
+`Aug 2025 – Nov 2025`
+- 🚨 Deployed **Snort-based NIDS** with **40+ custom rules** detecting port scans, brute-force, ICMP sweeps & C2 traffic
+- 📉 Reduced **false-positive rate by 40%** via quantitative traffic analysis and iterative rule tuning
+- 📊 Performed **PCAP analysis** & log correlation (Wireshark, tcpdump); produced **15+ structured incident reports** with PoCs & attack timelines
+
+### 🔴 Cyber Security Intern — VAPT — *A2IT InternEdge, Mohali*
+`May 2025 – Jul 2025`
+- 🕷️ Conducted **Web Application VAPT** across **5+ clients** using Burp Suite, Nmap & Nikto
+- 🐛 Identified **20+ OWASP Top-10 vulnerabilities** with CVSS-scored severity ratings
+- 📝 Delivered audit-ready reports with exploitation scenarios, remediation steps & CWE mappings
+
+### 🟣 Cyber Security & Digital Forensics Intern — *Cyber Secured India*
+`Sep 2024 – Nov 2024`
+- 📱 Conducted **mobile & cloud security investigations** using ADB and AWS CLI
+- 📋 Delivered **ISO 27001-aligned** evidence reports with chain-of-custody documentation
+- 🔬 Solved **30+ TryHackMe & HackTheBox** labs across red & blue team paths
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔵 SOC & Blue Team
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort_NIDS-E40000?style=for-the-badge&logoColor=white)
+![OSSIM](https://img.shields.io/badge/OSSIM-555555?style=for-the-badge&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-1e1e1e?style=for-the-badge&logoColor=white)
+
+### 🔴 VAPT & Red Team
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### ☁️ Cloud & Digital Forensics
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🤖 AI & ML Security
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🧰 Dev & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📐 Frameworks & Standards
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-D62929?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-003366?style=for-the-badge&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-003087?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![CVE/CVSS](https://img.shields.io/badge/CVE%2FCVSS-CC0000?style=for-the-badge&logoColor=white)
+
+---
+
+## 🏆 CTF & Competitive Security
+
+| Platform | Achievement |
+|----------|------------|
+| 🔴 **TryHackMe** | Top 1% Globally — Rank **#8382** — **LEGEND** — 24 Badges — 132 Rooms |
+| ☁️ **SANS AWS CTF** | Top 20 Region / Top 300 Global |
+| 🎯 **SANS Cyber Range BootUp CTF** | **5806 Points** |
+
+---
+
+## 📜 Certifications
+
+| 🏅 Certificate | Issuer | Year |
+|--------------|--------|------|
+| 🔒 Introduction to Data Protection & Privacy | Coursera | 2026 |
+| 🤖 Building AI-Powered Applications | Chandigarh University / Coursera | 2025 |
+| 🌐 Networks & Security | Google / Coursera | 2025 |
+| ⚔️ Ethical Hacking Essentials (EHE) | EC-Council | — |
+| 🛡️ Network Security Associate | OPSWAT | — |
+| 🇮🇳 Cybersecurity Training | MeitY, Govt. of India | — |
+| ☁️ Google Cloud GenAI Program | Google | — |
+| 🎓 Campus Ambassador | IIT Delhi, eDC BECon 2026 | 2026 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushthakur001&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushthakur001&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushthakur001&theme=chartreuse-dark" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=aayushthakur001&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+---
+
+## 📚 Education
+
+| Degree | Institution | Duration | Score |
+|--------|------------|---------|-------|
+| 🎓 **MCA** | Chandigarh University, Mohali | 2024 – 2026 | CGPA: 6.75 |
+| 🎓 **BCA** | Nilamber-Pitamber University | 2019 – 2023 | 71.50% |
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-thakur-001/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aayushthakur_01)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aayushkumarthakur128)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](http://dev.to/aayushkt)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aayush_001)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCgnupi1TVUNFmXfPtPM0MKw)
+
+📧 **ayushwork981@gmail.com** | 📍 **Chandigarh, India** | 📞 **+91-7482923005**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"The quieter you become, the more you are able to hear."* — Kali Linux
+
+![Profile Views](https://komarev.com/ghpvc/?username=aayushthakur001&label=Profile%20Views&color=00ff41&style=for-the-badge)
+
+⭐ **Star my repos if you find them useful!** ⭐
+
+</div>
