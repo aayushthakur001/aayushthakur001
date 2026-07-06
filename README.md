@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayush Thakur
+# Ayush Kumar Thakur
 ### 🛡️ Cybersecurity Professional | SOC Analyst | VAPT Engineer | AI Security Researcher
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SOC+Operations+%7C+Threat+Hunting+%7C+Incident+Response;Web+%2F+Mobile+%2F+Cloud+VAPT+%7C+OWASP+Top+10;AI-Assisted+Security+%7C+ML-based+IDS;TryHackMe+Top+1%25+%7C+LEGEND+%7C+Rank+%238382;Building+Open-Source+Enterprise+SOC+Platforms)](https://git.io/typing-svg)
