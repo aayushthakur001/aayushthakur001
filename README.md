@@ -262,7 +262,7 @@
 
 
 ---
-![snake gif](https://github.com/aayushthakur001/aayushthakur001/blob/output/snake.svg)
+![snake gif](https://github.com/aayushthakur001/aayushthakur001/blob/output/github-contribution-grid-snake2.svg)
 ## 📚 Education
 
 | Degree | Institution | Duration | Score |
