@@ -148,7 +148,7 @@
 
 ## 💼 Professional Experience
 
-### 🔵 Security Admin Associate (L1) — *Infotact Solutions India*
+### 🔵 Security Admin Associate (L1) Intern — *Infotact Solutions India*
 `Aug 2025 – Nov 2025`
 - 🚨 Deployed **Snort-based NIDS** with **40+ custom rules** detecting port scans, brute-force, ICMP sweeps & C2 traffic
 - 📉 Reduced **false-positive rate by 40%** via quantitative traffic analysis and iterative rule tuning
@@ -260,14 +260,15 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=aayushthakur001&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/aayushthakur001/aayushthakur001/blob/output/snake.svg)
 ---
 
 ## 📚 Education
 
 | Degree | Institution | Duration | Score |
 |--------|------------|---------|-------|
-| 🎓 **MCA** | Chandigarh University, Mohali | 2024 – 2026 | CGPA: 6.75 |
-| 🎓 **BCA** | Nilamber-Pitamber University | 2019 – 2023 | 71.50% |
+| 🎓 **MCA** | Chandigarh University, Mohali | 2024 – 2026 | CGPA: 6.63 |
+| 🎓 **BCA** | Nilamber-Pitamber University | 2019 – 2023 | 70.50% |
 
 ---
 
