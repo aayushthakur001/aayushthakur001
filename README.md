@@ -260,9 +260,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=aayushthakur001&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/aayushthakur001/aayushthakur001/blob/output/snake.svg)
----
 
+---
+![snake gif](https://github.com/aayushthakur001/aayushthakur001/blob/output/snake.svg)
 ## 📚 Education
 
 | Degree | Institution | Duration | Score |
