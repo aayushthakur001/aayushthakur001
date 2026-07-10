@@ -63,11 +63,11 @@
 │  ARCHITECTURE : 5-Service Docker Compose Stack                      │
 │  BACKEND      : FastAPI + SQLAlchemy + PostgreSQL + Redis + Celery  │
 │  FRONTEND     : React 18 + Vite + Recharts (14 Dashboard Pages)     │
-│  SCANNERS     : Nmap 7.94 (Network) + OWASP ZAP (Web App)          │
-│  INTELLIGENCE : NIST NVD API v2.0 + CVSS 3.x Scoring               │
+│  SCANNERS     : Nmap 7.94 (Network) + OWASP ZAP (Web App)           │
+│  INTELLIGENCE : NIST NVD API v2.0 + CVSS 3.x Scoring                │
 │  COMPLIANCE   : NIST SP 800-53 Rev 5 + ISO/IEC 27001:2022           │
 │  SECURITY     : JWT + bcrypt + 3-Tier RBAC (Admin/Analyst/Viewer)   │
-│  ASYNC        : Celery Workers + APScheduler background tasks        │
+│  ASYNC        : Celery Workers + APScheduler background tasks       │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
